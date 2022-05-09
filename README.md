@@ -1,3 +1,3 @@
-My personal academic website: LachlanHamilton.github.io
+My personal academic website: https://lachlanhamilton.github.io/
 
 Welcome!
