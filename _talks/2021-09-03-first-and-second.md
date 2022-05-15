@@ -2,7 +2,7 @@
 title: "First and Second Order Phase Transitions: Criticality, Continuity and Confusion"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-04-21-statistical-physics-models
+permalink: /talks/2021-09-03-first-and-second
 venue: "QIMR Berghofer Clinical Brain Network & Brain Modelling Group Lab Meeting"
 date: 2021-04-21
 location: "Brisbane, Queensland, Australia"
