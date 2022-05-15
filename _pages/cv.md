@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. (Hon) of Advanced Science, Physics Major, The University of Queensland *February 2017 - July 2021*
-* Ph.D in Computational Neuroscience, The University of Queensland            *October 2021 - In Progress*               
+* <pre>Bachelor of Advanced Science (Hon.), Physics Major, The University of Queensland,<i>February 2017 - July 2021</i></pre> 
+* <pre>PhD in Computational Neuroscience, The University of Queensland,                 <i>October 2021 - In Progress</i></pre>                            
 
 Work experience
 ======
