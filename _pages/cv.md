@@ -17,11 +17,11 @@ Education
 Work experience
 ======
 * <pre>Research Assistant           <i>March 2021 - Current</i></pre>
-  * QIMR Berghofer Research Institute
+  * QIMR Berghofer Research Institute, Herston
   * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. Influenced [Queensland government policy](https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf) on re-opening the border, had work featured on ABC/7/9 News, ABC Radio and [4BC Radio](https://www.4bc.com.au/hundreds-of-queenslanders-could-die-as-state-reopens-borders-modelling-predicts/)
 
 * <pre>Teaching Assistant           <i>July 2019 - Current</i></pre>
-  * The University of Queensland 
+  * The University of Queensland, St. Lucia 
   * Tutoring and marking undergraduate courses in maths and physics, including coding practicals and laboratory workshops. Gained skills in engaging, challenging and assisting students with problem solving, while remaining focused on the bigger picture and intuition
 
 
@@ -30,12 +30,12 @@ Work experience
   * Tutoring students in one-on-one sessions from subjects such as chemistry, english, biology, physics and mathematics. Gained skills in building confidence of students, and finding their best strategy to learn.
 
 * <pre>Internship                   <i>January 2016</i></pre>
-  * National Youth Science Forum, Australian National University
+  * National Youth Science Forum, Australian National University, Canberra
   * 2 week visit to research facilities at the Australian National University. Focus on leadership in science, community engagement and networking. Obtained scholarship from Rotary Club of Brisbane Centenary.
 
 
 * <pre>Internship                   <i>December 2015</i></pre>
-  * Wesley Hospital
+  * Wesley Hospital, Brisbane
   * 2 week internship to observe doctors, physiotherapists, nurses and occupational therapists. Offered hands-on educational experience in a hospital setting.
   
 Research
