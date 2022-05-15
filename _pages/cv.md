@@ -84,7 +84,7 @@ Academic Achievements
 * RTP tuition fee offset and stipend scholarship                                     2021
 * UQ summer research scholarship                                                     2019
 * Rotary Scholarship for National Youth Science Forum                                2016
-* PASCH Scholarship to Internation Deutschkamp in Bangkok                            2015
+* PASCH Scholarship to International Deutschkamp in Bangkok                            2015
 
 Extra-Curricular
 ======
