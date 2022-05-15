@@ -18,7 +18,7 @@ Work experience
 ======
 * Research Assistant                                                                March 2021 - Current
   * QIMR Berghofer Research Institute
-  * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. Influenced [Queensland government policy](https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf) on re-opening the border, had work featured on ABC/7/9 News, ABC Radio and [4BC](https://www.4bc.com.au/hundreds-of-queenslanders-could-die-as-state-reopens-borders-modelling-predicts/)
+  * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. Influenced [Queensland government policy](https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf) on re-opening the border, had work featured on ABC/7/9 News, ABC Radio and [4BC Radio](https://www.4bc.com.au/hundreds-of-queenslanders-could-die-as-state-reopens-borders-modelling-predicts/)
 
 * Teaching Assistant                                                                July 2019 - Current
   * The University of Queensland 
