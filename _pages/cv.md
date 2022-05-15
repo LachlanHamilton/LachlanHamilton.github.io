@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* <pre>B.S. (Hon) of Advanced Science, Physics Major, The University of Queensland          <i>February 2017 - July 2021</i></pre>
-* <pre>Ph.D in Computational Neuroscience, The University of Queensland                     <i>October 2021 - In Progress</i></pre>                   
+* <pre>B.S. (Hon) of Advanced Science, Physics Major, The University of Queensland <i>February 2017 - July 2021</i></pre>
+* <pre>Ph.D in Computational Neuroscience, The University of Queensland            <i>October 2021 - In Progress</i></pre>                   
 
 Work experience
 ======
@@ -79,15 +79,15 @@ Teaching
   
 Academic Achievements
 ======
-* <pre>Influence Queensland Government policy with <a href="https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf">covid modelling</a>          <i>2021</i></pre>                                       
+* <pre>Influence Queensland Government policy with <a href="https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf">covid modelling</a>        <i>2021</i></pre>                                       
 * <pre>RTP tuition fee offset and stipend scholarship                     <i>2021</i></pre>                                   
 * <pre>UQ summer research scholarship                                     <i>2019</i></pre>                                                       
-* Rotary Scholarship for National Youth Science Forum                     <i>2016</i></pre>                                 
-*  PASCH Scholarship to International Deutschkamp in Bangkok              <i>2015</i></pre>                         
+* <pre>Rotary Scholarship for National Youth Science Forum                <i>2016</i></pre>                                 
+* <pre>PASCH Scholarship to International Deutschkamp in Bangkok          <i>2015</i></pre>                         
 
 Extra-Curricular
 ======
-* <pre>Chair of the Clinical Brain Network & Brain Modelling Group Teaching Sessions          <i>2021 - Current</i></pre> 
-* <pre>Duty Manager at Brisbane West Indoor Sports                                            <i>2019 - Current</i></pre>
-* <pre>Volunteer coach at Centenary Rowing Club                                               <i>2019 - 2020</i></pre>
-* <pre>AMEB Piano Grade 8 Certificate                                                         <i>2017</i></pre>
+* <pre>Chair of the Clinical Brain Network & Brain Modelling Group Teaching Sessions  <i>2021 - Current</i></pre> 
+* <pre>Duty Manager at Brisbane West Indoor Sports                                    <i>2019 - Current</i></pre>
+* <pre>Volunteer coach at Centenary Rowing Club                                       <i>2019 - 2020</i></pre>
+* <pre>AMEB Piano Grade 8 Certificate                                                 <i>2017</i></pre>
