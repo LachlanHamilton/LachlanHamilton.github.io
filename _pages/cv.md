@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. (Hon) of Advanced Science, Physics Major, The University of Queensland         *February 2017 - July 2021*
-* Ph.D in Computational Neuroscience, The University of Queensland                    *October 2021 - In Progress*
+* <pre>B.S. (Hon) of Advanced Science, Physics Major, The University of Queensland          <i>February 2017 - July 2021</i></pre>
+* <pre>Ph.D in Computational Neuroscience, The University of Queensland                     <i>October 2021 - In Progress</i></pre>                   
 
 Work experience
 ======
-* <pre>Research Assistant          <i>March 2021 - Current</i></pre>
+* <pre>Research Assistant           <i>March 2021 - Current</i></pre>
   * QIMR Berghofer Research Institute
   * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. Influenced [Queensland government policy](https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf) on re-opening the border, had work featured on ABC/7/9 News, ABC Radio and [4BC Radio](https://www.4bc.com.au/hundreds-of-queenslanders-could-die-as-state-reopens-borders-modelling-predicts/)
 
-* Teaching Assistant                                                                 *July 2019 - Current*
+* <pre>Teaching Assistant           <i>July 2019 - Current</i></pre>
   * The University of Queensland 
   * Tutoring and marking undergraduate courses in maths and physics, including coding practicals and laboratory workshops. Gained skills in engaging, challenging and assisting students with problem solving, while remaining focused on the bigger picture and intuition
 
 
-* Private Tutoring                                                                   *January 2016* 
+* <pre>Private Tutoring             <i>July 2017 - Current</i></pre>                                                                   
   * Brisbane, Queensland
-  * 2 week visit to research facilities at the Australian National University. Focus on leadership in science,
-community engagement and networking. Obtained funding from Rotary Club of Brisbane Centenary.
+  * Tutoring students in one-on-one sessions from subjects such as chemistry, english, biology, physics and mathematics. Gained skills in building confidence of students, and finding their best strategy to learn.
 
-* Internship                                                                         *January 2016* 
+* <pre>Internship                   <i>January 2016</i></pre>
   * National Youth Science Forum, Australian National University
   * 2 week visit to research facilities at the Australian National University. Focus on leadership in science, community engagement and networking. Obtained scholarship from Rotary Club of Brisbane Centenary.
 
 
-* Internship                                                                         *December 2015* 
+* <pre>Internship                   <i>December 2015</i></pre>
   * Wesley Hospital
   * 2 week internship to observe doctors, physiotherapists, nurses and occupational therapists. Offered hands-on educational experience in a hospital setting.
   
@@ -80,15 +79,15 @@ Teaching
   
 Academic Achievements
 ======
-* Influence Queensland Government policy with [covid modelling](https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf)                                    *2021*
-* RTP tuition fee offset and stipend scholarship                                     *2021*
-* UQ summer research scholarship                                                     *2019*
-* Rotary Scholarship for National Youth Science Forum                                *2016*
-* PASCH Scholarship to International Deutschkamp in Bangkok                          *2015*
+* <pre>Influence Queensland Government policy with <a href="https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf">covid modelling</a>          <i>2021</i></pre>                                       
+* <pre>RTP tuition fee offset and stipend scholarship                     <i>2021</i></pre>                                   
+* <pre>UQ summer research scholarship                                     <i>2019</i></pre>                                                       
+* Rotary Scholarship for National Youth Science Forum                     <i>2016</i></pre>                                 
+*  PASCH Scholarship to International Deutschkamp in Bangkok              <i>2015</i></pre>                         
 
 Extra-Curricular
 ======
-* Chair of the Clinical Brain Network & Brain Modelling Group Teaching Sessions      *2021 - Current*
-* Duty Manager at Brisbane West Indoor Sports                                        *2019 - Current*
-* Volunteer coach at Centenary Rowing Club                                           *2019 -2020*
-* AMEB Piano Grade 8 Certificate                                                     *2017*
+* <pre>Chair of the Clinical Brain Network & Brain Modelling Group Teaching Sessions          <i>2021 - Current</i></pre> 
+* <pre>Duty Manager at Brisbane West Indoor Sports                                            <i>2019 - Current</i></pre>
+* <pre>Volunteer coach at Centenary Rowing Club                                               <i>2019 - 2020</i></pre>
+* <pre>AMEB Piano Grade 8 Certificate                                                         <i>2017</i></pre>
