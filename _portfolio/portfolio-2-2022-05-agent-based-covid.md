@@ -1,6 +1,6 @@
 ---
 title: "Agent-Based Covid Modelling for Queensland"
-excerpt: "TODO. <br/><img src='/images/covid_qld.png'>"
+excerpt: " <img src='/images/covid_qld.gif'><br/> TODO."
 collection: portfolio
 ---
 
