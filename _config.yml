@@ -61,7 +61,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : lachie_of_ham #&twitter
 facebook:
   username               :
   app_id                 :
@@ -106,14 +106,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/lachlan-h-w-hamilton-176a15227/?originalSubdomain=au
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "lachie_of_ham" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
