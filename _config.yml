@@ -11,7 +11,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lachlan HW Hamilton / Academic Website"
+title                    : "Lachlan HW Hamilton"
 title_separator          : "-"
 name                     : &name "Lachlan HW Hamilton"
 description              : &description "Computational Neuroscience and Physics"
