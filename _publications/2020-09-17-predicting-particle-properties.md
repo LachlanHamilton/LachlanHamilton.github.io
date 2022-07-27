@@ -11,7 +11,7 @@ citation: 'Lachlan H. W. Hamilton, Lauren R. McQueen, Oscar W. Smee, Timo A. Nie
 
 ---
 
-[Download paper here](http://LachlanHamilton.github.io/files/predicting_particle_properties_in_optical_traps_with_machine_learning.pdf)
+[View paper here](http://LachlanHamilton.github.io/files/predicting_particle_properties_in_optical_traps_with_machine_learning.pdf)
 
 Identifying a particle in an optical trap can be a difficult task, especially for biological samples with low contrast. The relationship of radius and refractive index to the stiffness of optical traps is non-intuitive, motivating a machine learning approach. We demonstrate methods for real-time estimates of the radius and refractive index of particles trapped by optical tweezers. This is achieved by analysing the particle’s position and force with artificial neural networks. Our network achieved binary classification of experimental particles by sampling only milliseconds of force and position values. This demonstrates that real-time particle recognition is achievable with machine learning systems.
 
