@@ -4,5 +4,5 @@ excerpt: "<img src='/images/PPP.gif'><br/><br/>  Developed 3 artificial neural n
 collection: portfolio
 ---
 
-Developed 3 artificial neural networks, designed to predict the radius and refractive index of particles in an optical trap and trained on simulated data. Results were presented at the SPIE conference, and [published](http://LachlanHamilton.github.io/files/predicting_particle_properties_in_optical_traps_with_machine_learning.pdf) in the proceedings.
+Developed artificial neural networks, designed to predict the radius and refractive index of particles in an optical trap and trained on simulated data. Results were presented at the SPIE conference, and [published](http://LachlanHamilton.github.io/files/predicting_particle_properties_in_optical_traps_with_machine_learning.pdf) in the proceedings.
 
