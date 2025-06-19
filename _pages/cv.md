@@ -12,15 +12,16 @@ redirect_from:
 Education
 ======
 * Bachelor of Advanced Science (Hon.), Physics Major, The University of Queensland, *February 2017 - July 2021*
-* PhD in Computational Neuroscience, The University of Queensland, *October 2021 - In Progress*                           
+* PhD in Physics and Neuroscience, The University of Queensland, *October 2021 - In Progress*                           
 
 Work experience
 ======
-* <pre>Research Assistant           <i>March 2021 - Current</i></pre>
+* <pre>Research Assistant           <i>March 2021 - 2024</i></pre>
   * QIMR Berghofer Research Institute, Herston
-  * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. Influenced [Queensland government policy](https://www.covid19.qld.gov.au/__data/assets/pdf_file/0030/216939/qimr-berghofer-modelling-covid-in-qld-report.pdf) on re-opening the border, had work featured on ABC/7/9 News, ABC Radio and [4BC Radio](https://www.4bc.com.au/hundreds-of-queenslanders-could-die-as-state-reopens-borders-modelling-predicts/)
+  * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. Influenced [Queensland government policy](qimr-berghofer-modelling-covid-in-qld-report.pdf) on re-opening the border, had work featured on ABC/7/9 News, ABC Radio and [4BC Radio](https://www.4bc.com.au/hundreds-of-queenslanders-could-die-as-state-reopens-borders-modelling-predicts/)
+  * MRI scanning optimization and task implementation for clinical trials with Deep-Brain Stimulation and Focused Ultrasound
 
-* <pre>Teaching Assistant           <i>July 2019 - Current</i></pre>
+* <pre>Teaching Assistant           <i>July 2019 - 2022</i></pre>
   * The University of Queensland, St. Lucia 
   * Tutoring and marking undergraduate courses in maths and physics, including coding practicals and laboratory workshops. Gained skills in engaging, challenging and assisting students with problem solving, while remaining focused on the bigger picture and intuition
 
@@ -34,7 +35,7 @@ Work experience
   * 2 week visit to research facilities at the Australian National University. Focus on leadership in science, community engagement and networking. Obtained scholarship from Rotary Club of Brisbane Centenary.
 
 
-* <pre>Internship                   <i>December 2015</i></pre>
+* <pre>Wesley Hospital Internship                   <i>December 2015</i></pre>
   * Wesley Hospital, Brisbane
   * 2 week internship to observe doctors, physiotherapists, nurses and occupational therapists. Offered hands-on educational experience in a hospital setting.
   
@@ -87,7 +88,7 @@ Academic Achievements
 
 Extra-Curricular
 ======
-* <pre>Chair of the Clinical Brain Network & Brain Modelling Group Teaching Sessions  <i>2021 - Current</i></pre> 
-* <pre>Duty Manager at Brisbane West Indoor Sports                                    <i>2019 - Current</i></pre>
+* <pre>Oragnizer of Clinical Brain Network & Brain Modelling Group Teaching Sessions  <i>2021 - 2023</i></pre> 
+* <pre>Duty Manager at Brisbane West Indoor Sports                                    <i>2019 - 2022</i></pre>
 * <pre>Volunteer coach at Centenary Rowing Club                                       <i>2019 - 2020</i></pre>
 * <pre>AMEB Piano Grade 8 Certificate                                                 <i>2017</i></pre>
