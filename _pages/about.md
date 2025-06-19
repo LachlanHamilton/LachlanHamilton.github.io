@@ -16,3 +16,6 @@ I have been tutoring a variety of subjects at the University of Queensland since
 
 An example of my current work on cortical eigenmodes is below: 
 <img src='/images/eigenmodes_method.gif'> <br/><br/>
+
+
+
