@@ -2,7 +2,7 @@
 title: "Distinct contribution of brain geometry and connectivity for whole-cortex communication"
 collection: talks
 type: "Poster"
-permalink: /talks/2024-02-25-distinct-contribution-noosa.md
+permalink: /talks/2024-02-25-distinct-contribution-noosa
 venue: "OHBM Noose Workshop 2024"
 date: 25/02/2024
 location: "Noosa, Queensland, Australia"
