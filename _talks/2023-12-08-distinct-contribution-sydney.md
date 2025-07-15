@@ -2,7 +2,7 @@
 title: "Distinct contribution of brain geometry and connectivity for whole-cortex communication"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-12-08-distinct-contribution-sydney
+# permalink: /talks/2023-12-08-distinct-contribution-sydney
 venue: "OHBM Australia 2023"
 date: 08/12/2023
 location: "Sydney, New South Wales, Australia"

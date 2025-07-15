@@ -2,7 +2,7 @@
 title: "Cortical response to local perturbations validates spatial, but not temporal, neural field theory predictions"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-06-27-cortical-response
+# permalink: /talks/2025-06-27-cortical-response
 venue: "OHBM 2025"
 date: 27/06/2025
 location: "Brisbane, Queensland, Australia"
