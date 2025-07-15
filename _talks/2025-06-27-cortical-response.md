@@ -6,10 +6,11 @@ permalink: /talks/2025-06-27-cortical-response.md
 venue: "OHBM 2025"
 date: 27/06/2025
 location: "Brisbane, Queensland, Australia"
-excerpt: "'<img src='/images/OHBM_2025_Brisbane.jpg'><br/><br/>'"
+excerpt: "<img src='/images/OHBM_2025_Brisbane.jpg'><br/><br/>"
 
 ---
 
+<img src='/images/OHBM_2025_Brisbane.jpg'><br/><br/>
 Introduction:
 
 The mechanisms that govern the propagation of neural signals through the cortex are poorly understood. Recent findings [2] suggest that cortical geometry and wave equations derived from neural field theory (NFT) can describe task and resting state brain networks more accurately and with fewer parameters than network-based approaches. The role of cortical geometry is summarized by eigenmodes, the set of spatial patterns predicted to underlie activity. However, it is unclear if eigenmodes have predictive power beyond being a parsimonious basis for decomposing neuroimaging data. Moreover, it remains debated if the temporal principles of NFT can explain macroscopic signal propagation. To test these hypotheses, we assessed whole-brain spatiotemporal responses following distinct local perturbations of neural activity.
