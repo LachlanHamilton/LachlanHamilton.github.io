@@ -14,7 +14,7 @@ Previous to this, I completed my Bachelor of Advanced Science degree at the Univ
 
 I have been tutoring a variety of subjects at the University of Queensland since 2019. This includes practical laboratories and coding along with more traditional mathematics and physics classes. My approach is to deliver the content with passion and inspire students to engage with their studies.
 
-An example of my current work on cortical eigenmodes is below: 
+An example of my current work on cortical eigenmodes is below
 <img src='/images/eigenmodes_method.gif'> <br/><br/>
 
 
