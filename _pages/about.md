@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2021, I am a PhD student with the Clinical Brain Network and Brain Modelling groups at QIMR Berghofer. I am researching how activity in the brain can be described with physics-based models, with aims of describing pathology and treatments with non-invasive stimulation techniques. 
+I am a researcher curious about capturing how complex systems in biology and physics evolve in space and time.
 
-Previous to this, I completed my Bachelor of Advanced Science degree at the University of Queensland where I undertook a wide variety of research projects in laser physics, machine learning, critical phenomena and neuroscience. 
+I am currently doing my PhD with the Brain Modelling group at QIMR Berghofer, and Optical Micromanipulation Group at the University of Queensland. I am investigating how wave models can describe brain activity, with aims of describing pathology and treatments with non-invasive stimulation techniques. 
 
-I have been tutoring a variety of subjects at the University of Queensland since 2019. This includes practical laboratories and coding along with more traditional mathematics and physics classes. My approach is to deliver the content with passion and inspire students to engage with their studies.
+Previous to this, I completed my Bachelor of Advanced Science (Physics) at the University of Queensland where I am grateful to have explored a wide variety of projects in laser physics, machine learning, electrophysiology, critical phenomena, and neuroscience. From 2021-2023, I was employed to perform modelling for the COVID-19 epidemic, and fortunate enough to work alongside scientists and government to inform policy.    
+
+I have a passion for tutoring, and have worked at the University of Queensland since 2019. I have tutored practical laboratories and coding, along with more traditional mathematics and physics classes. My approach is to provide a curiosity-led classroom, and inspire students to engage with their studies. I have also worked privately with primary and high-school students, specializing in neurodivergence education, and extension.
 
 An example of my current work on cortical eigenmodes is below:
 <img src='/images/eigenmodes_method.gif'> <br/><br/>
