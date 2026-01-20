@@ -1,6 +1,6 @@
 ---
 title: "Stitched Continua: Long-Range Network Connections in Continuous Surfaces"
-excerpt: "<img src='/images/knot_combo.gif'> <br/><br/>  Developed mathematical models for long-range connections in systems with wave dynamics. <br/> PhD project under the supervision of Richa Phogat and James A. Roberts at QIMR Berghofer."
+excerpt: "<img src='/images/knot_combo.gif'> <br/><br/>  Developed mathematical models for long-range connections in systems with wave dynamics. <br/><br/>  PhD project under the supervision of Richa Phogat and James A. Roberts at QIMR Berghofer."
 collection: portfolio
 ---
 
