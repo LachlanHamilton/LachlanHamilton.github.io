@@ -14,7 +14,7 @@ Education
 * Bachelor of Advanced Science (Hon.), Physics Major, The University of Queensland, *February 2017 - July 2021*
 * PhD in Physics and Neuroscience, The University of Queensland, *October 2021 - In Progress*                           
 
-Research
+Research (see [Portfolio](https://lachlanhamilton.github.io/portfolio/) for visuals and details)
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
