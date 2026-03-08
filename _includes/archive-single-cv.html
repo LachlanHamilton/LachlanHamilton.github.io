@@ -39,9 +39,15 @@
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | split: '<br/><br/>' | last }}
+        {{ post.excerpt
+          | remove: "<img src='"
+          | remove: "<img src=\""
+          | remove: ".gif'>"
+          | remove: ".jpg'>"
+          | remove: ".png'>"
+        }}
       </p>
-    {% endif %}
+  {% endif %}
     </li>
  </article>
 </div>
