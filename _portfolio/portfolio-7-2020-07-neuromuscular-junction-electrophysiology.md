@@ -10,6 +10,6 @@ Used signal processing methods to automatically extract the voltage changes from
 evoked activity in the neuromuscular junction of cane toads. The co-localization of neuron vesicles and
 muscular active zones was then analyzed with image processing techniques.
 
-
+Undergraduate project taken as part of NEUR3001, taught by [Peter G Noakes](https://scholar.google.com/citations?user=7lIpDu0AAAAJ&hl=en).
 
 

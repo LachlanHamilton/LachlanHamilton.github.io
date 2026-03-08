@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher curious about capturing how complex systems in biology and physics evolve in space and time.
+I am a researcher curious about capturing how complex systems in biology and physics evolve in space and time. See my [portfolio](/portfolio/) for my work and past supervisors. 
 
-I am currently doing my PhD with the Brain Modelling group at QIMR Berghofer, and Optical Micromanipulation Group at the University of Queensland. I am investigating how wave models can describe brain activity, with aims of describing pathology and treatments with non-invasive stimulation techniques. 
+I am currently doing my PhD with the Brain Modelling group at QIMR Berghofer, and Optical Micromanipulation Group at the University of Queensland under the supervision of [James A. Roberts](https://scholar.google.com.au/citations?user=p_96aLYAAAAJ&hl=en), [Richa Phogat](https://scholar.google.com/citations?user=Qp5sJJoAAAAJ&hl=en), and [Timo A Nieminen](https://scholar.google.com.au/citations?user=vKUFvQYAAAAJ&hl=en). I am investigating how wave models can describe brain activity, with aims of describing pathology and treatments with non-invasive stimulation techniques. 
 
 Previous to this, I completed my Bachelor of Advanced Science (Physics) at the University of Queensland where I am grateful to have explored a wide variety of projects in laser physics, machine learning, electrophysiology, critical phenomena, and neuroscience. From 2021-2023, I was employed to perform modelling for the COVID-19 epidemic, and fortunate enough to work alongside scientists and government to inform policy.    
 

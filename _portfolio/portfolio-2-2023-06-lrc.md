@@ -6,5 +6,5 @@ collection: portfolio
 
 Developed mathematical models for long-range connections in systems with wave dynamics.
 
-PhD project under the supervision of Richa Phogat and James A. Roberts at QIMR Berghofer.
+PhD project under the supervision of [Richa Phogat](https://scholar.google.com/citations?user=Qp5sJJoAAAAJ&hl=en), [James A. Roberts](https://scholar.google.com.au/citations?user=p_96aLYAAAAJ&hl=en), and [Timo A Nieminen](https://scholar.google.com.au/citations?user=vKUFvQYAAAAJ&hl=en) at QIMR Berghofer and the University of Queensland. 
 

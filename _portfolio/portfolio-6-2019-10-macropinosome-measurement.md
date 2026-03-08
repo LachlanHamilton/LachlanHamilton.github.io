@@ -8,11 +8,7 @@ Explored the possibility for rotational optical traps to make measurements insid
 We used a novel rotational optical trap, fluorescent microscopy and electron microscopy to determine
 the viability of rotational probes in a biological specimen.
 
-
-
-
-
-
+Work taken under the supervision of [Halina Rubinsztein-Dunlop](https://scholar.google.com.au/citations?user=4_sqVfYAAAAJ&hl=en), and [Alex B Stilgoe](https://scholar.google.com/citations?user=zV1oaLgAAAAJ&hl=en) at the University of Queensland. 
 
 
 
