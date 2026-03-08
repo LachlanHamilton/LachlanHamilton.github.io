@@ -39,9 +39,11 @@
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | split: ">" | shift | join: ">" | remove: "<br/><br/>" }}
+        {% assign parts = post.excerpt | split: "<br/><br/>" %}
+        {% assign clean_excerpt = parts | slice: 1, parts.size | join: "<br/><br/>" %}
+        {{ clean_excerpt }}
       </p>
-  {% endif %}
+    {% endif %}
     </li>
  </article>
 </div>
