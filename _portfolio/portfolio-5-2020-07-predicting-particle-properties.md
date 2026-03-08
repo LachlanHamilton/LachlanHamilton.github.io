@@ -6,5 +6,5 @@ collection: portfolio
 
 Developed artificial neural networks, designed to predict the radius and refractive index of particles in an optical trap and trained on simulated data. Results were presented at the SPIE conference, and [published](http://LachlanHamilton.github.io/files/predicting_particle_properties_in_optical_traps_with_machine_learning.pdf) in the proceedings.
 
-Work taken under the supervision of [Isaac CD Lenton](https://scholar.google.com/citations?user=8eQc4R8AAAAJ&hl=en), [Timo A Nieminen](https://scholar.google.com.au/citations?user=vKUFvQYAAAAJ&hl=en), and [Halina Rubinsztein-Dunlop](https://scholar.google.com.au/citations?user=4_sqVfYAAAAJ&hl=en) at the University of Queensland. 
+Summer research taken under the supervision of [Isaac CD Lenton](https://scholar.google.com/citations?user=8eQc4R8AAAAJ&hl=en), [Timo A Nieminen](https://scholar.google.com.au/citations?user=vKUFvQYAAAAJ&hl=en), and [Halina Rubinsztein-Dunlop](https://scholar.google.com.au/citations?user=4_sqVfYAAAAJ&hl=en) at the University of Queensland. 
 
