@@ -14,6 +14,12 @@ Education
 * Bachelor of Advanced Science (Hon.), Physics Major, The University of Queensland, *February 2017 - July 2021*
 * PhD in Physics and Neuroscience, The University of Queensland, *October 2021 - In Progress*                           
 
+Research
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 * <pre>Research Assistant           <i>March 2021 - 2024</i></pre>
@@ -38,38 +44,24 @@ Work experience
 * <pre>Wesley Hospital Internship                   <i>December 2015</i></pre>
   * Wesley Hospital, Brisbane
   * 2 week internship to observe doctors, physiotherapists, nurses and occupational therapists. Offered hands-on educational experience in a hospital setting.
-  
-Research
-======
-  <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Skills
 ======
 * Matlab/Python/C/C++
+* Numerical Simulations
+* Mathematical Analysis 
 * Machine Learning (Tensorflow)
 * High Performance Computing (slurm/pbs)
-* MRI Processing
-  * freesurfer
-  * fMRIPrep
-  * workbench_connectome
-  * ImageJ
+* EEG and fMRI Analysis
+* ImageJ
 * Lab Skills
   * Basic Circuits 
   * Lasers
-  * Neuron Electrophysiology 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -84,7 +76,13 @@ Academic Achievements
 * <pre>RTP tuition fee offset and stipend scholarship                     <i>2021</i></pre>                                   
 * <pre>UQ summer research scholarship                                     <i>2019</i></pre>                                                       
 * <pre>Rotary Scholarship for National Youth Science Forum                <i>2016</i></pre>                                 
-* <pre>PASCH Scholarship to International Deutschkamp in Bangkok          <i>2015</i></pre>                         
+* <pre>PASCH Scholarship to International Deutschkamp in Bangkok          <i>2015</i></pre>      
+
+Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>                   
 
 Extra-Curricular
 ======
